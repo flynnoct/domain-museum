@@ -11,4 +11,4 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 # Perplexity
-DOMAIN-SUFFIX,perplexity.ai
+# DOMAIN-SUFFIX,perplexity.ai
