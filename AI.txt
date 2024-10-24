@@ -1,5 +1,7 @@
 # Apple Intelligence
 DOMAIN,apple-relay.apple.com
+# Google Gemini
+DOMAIN,gemini.google.com
 # OpenAI
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
