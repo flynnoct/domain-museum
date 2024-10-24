@@ -1,3 +1,5 @@
+# Apple Intelligence
+DOMAIN,apple-relay.apple.com
 # OpenAI
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
