@@ -1,4 +1,4 @@
-file_name = "Junks.txt"
+file_name = "AI.txt"
 
 f1 = open("S/%s" % file_name, "r")
 f2 = open("C/%s" % file_name, "w")
