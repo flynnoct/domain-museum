@@ -1,3 +1,5 @@
+# Meta
+DOMAIN-SUFFIX,meta.ai
 # Apple Intelligence
 DOMAIN,apple-relay.apple.com
 # Perplexity
