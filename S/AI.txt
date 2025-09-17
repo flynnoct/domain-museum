@@ -2,6 +2,9 @@
 DOMAIN,apple-relay.apple.com
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
+# AI Gateways
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,ai-gateway.vercel.sh
 # OpenAI
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
