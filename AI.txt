@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,perplexity.ai
 # OpenAI
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,ai-gateway.vercel.sh
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,api.statsig.com
