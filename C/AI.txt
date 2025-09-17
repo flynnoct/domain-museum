@@ -1,4 +1,7 @@
 payload:
+  # AI Gateways
+  - DOMAIN,openrouter.ai
+  - DOMAIN,ai-gateway.vercel.sh
   - DOMAIN,apple-relay.apple.com
   - DOMAIN-SUFFIX,perplexity.ai
   # ChatGPT
