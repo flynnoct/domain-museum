@@ -1,6 +1,3 @@
-# AI Gateways
-DOMAIN-SUFFIX,openrouter.ai
-DOMAIN-SUFFIX,ai-gateway.vercel.sh
 # Apple Intelligence
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
@@ -9,6 +6,9 @@ DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,cp4.cloudflare.com
+# AI Gateways
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,ai-gateway.vercel.sh
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
 # OpenAI
