@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,deepmind.google
 DOMAIN,geller-pa.googleapis.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,robinfrontend-pa.googleapis.com
 
 # Google AI Studio
 DOMAIN,ai.google.dev
@@ -15,5 +16,41 @@ DOMAIN,generativeai.google
 DOMAIN,makersuite.google.com
 
 DOMAIN,aistudio.google.com
+DOMAIN,ai.studio
+DOMAIN,gemini.google
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
+
+# Gemini Code Assist
+# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
+DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+
+# NotebookLM
+DOMAIN,notebooklm-pa.googleapis.com
+DOMAIN,notebooklm.googleapis.com
+DOMAIN,notebooklm.google
+DOMAIN,notebooklm.google.com
+
+# Jules
+DOMAIN,jules.google
+DOMAIN,jules.google.com
+
+# Google AI Labs
+DOMAIN,labs.google
+DOMAIN,labs.google.com
+DOMAIN,aisandbox-pa.googleapis.com
+
+# Android Studio Gemini Code Assist
+DOMAIN,aida.googleapis.com
+
+# Opal
+DOMAIN,opal.google
+DOMAIN,opal.google.com
+
+# Antigravity
+DOMAIN,antigravity-pa.googleapis.com
+DOMAIN,antigravity.googleapis.com
+DOMAIN,antigravity.google
+DOMAIN,antigravity-unleash.goog
